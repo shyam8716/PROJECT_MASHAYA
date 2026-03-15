@@ -5,3 +5,7 @@ total=d+e+f
 print(total)
 average=total/3
 print(average)
+if total<=1000 and average>=900:
+    print("pass")
+else:
+    print("fail")
